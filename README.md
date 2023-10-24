@@ -1,3 +1,4 @@
-# todolist_project
+# Spring - Java
+## ToDoList
 
-Criação de uma API em Spring a fim de estudos sobre o framework.
+Criação de uma API com verificações e requisições para treinamento do Framework Spring em Java.
